@@ -15,7 +15,6 @@ This project automates the process of swiping on Tinder using a Python script. T
 - Python 3.x
 - Selenium
 - WebDriver (e.g., ChromeDriver for Google Chrome)
-- Other dependencies listed in `requirements.txt` (if available)
 
 ## Installation
 
